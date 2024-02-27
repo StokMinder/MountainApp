@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RafliMountainApp</string>
+    <string name="mountain_seach">Cari Gunung Yang Ingin Di Cari</string>
+    <string name="home_pagee">Home</string>
+    <string name="mountain_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="name">Muhammad Rafli</string>
+    <string name="telp">089522988325</string>
+    <string name="email">a175bsy2450@bangkit.academy</string>
+</resources>
